@@ -24,6 +24,7 @@
     display: block;
     color: #ffffff;
     padding: 2px 6px;
+    text-transform: uppercase;
   }
 
   .nav-item .nav-link.active,
@@ -148,8 +149,6 @@
  
 
  
-  
-
   
   .about-section .box {
     display: flex;
