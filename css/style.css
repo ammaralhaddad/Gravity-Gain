@@ -1,8 +1,7 @@
 
-* {
-  font-family: "Oswald", sans-serif !important;
+*{
+  font-family: "Oswald", sans-serif;
 }
-  
 .navbar {
     background-color: #141414;
   
@@ -306,6 +305,23 @@ button#submit-button:hover {
 .google-map iframe {
   width: 100%;
 }
+
+
+/* Footer Section */
+
+.footer-section {
+  background-color: #141414;
+}
+.footer-section a {
+  color: #e60000 !important;
+}
+
+.footer-section a:hover {
+cursor: pointer;
+}
+
+
+
 
 
 
