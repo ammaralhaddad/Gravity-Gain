@@ -263,6 +263,49 @@
   background-color: #e60000 !important;
  }
 
+/* Contact section */
+
+.contact-section {
+  padding: 50px 0;
+}
+
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #141414;
+}
+
+button#submit-button {
+
+    background-color: #e60000;
+    border: 1px solid #e60000;
+    color: #ffffff;
+    margin-top: 15px;
+    text-align: center;
+    align-items: center;
+    width: 200px;
+    font-size: 17px;
+    border-radius: 15px;
+}
+
+button#submit-button:hover {
+  background-color: transparent;
+  color: #e60000;
+  text-decoration: none;
+}
+
+.contact h2 + p {
+  max-width: 90%;
+}
+
+.google-map {
+  margin-top: 70px;
+ 
+}
+
+.google-map iframe {
+  width: 100%;
+}
 
 
 
